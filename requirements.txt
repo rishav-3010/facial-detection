@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+opencv-python
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+h5py
+jupyter
